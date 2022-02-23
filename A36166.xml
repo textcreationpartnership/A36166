@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divers serious cautions plainly shewing the unlawfulness of the oath of abjuration, and that (for several reasons) a branch of the old royal family may more necessarily tend to the happy settlement of these three distracted nations then any other new government whatsoever.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36166</idno>
+            <idno type="STC">Wing D1714</idno>
+            <idno type="STC">ESTC R41924</idno>
+            <idno type="EEBO-CITATION">19728540</idno>
+            <idno type="OCLC">ocm 19728540</idno>
+            <idno type="VID">109359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divers serious cautions plainly shewing the unlawfulness of the oath of abjuration, and that (for several reasons) a branch of the old royal family may more necessarily tend to the happy settlement of these three distracted nations then any other new government whatsoever.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Great Britain.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109359:1" rendition="simple:additions"/>
+            <head>Divers ſerious Cautions, plainly ſhewing the Unlawfulneſs of the Oath of ABJURATION; and that (for ſeveral Reaſons) a Branch of the OLD ROYAL FAMILY may more neceſſarily tend to the Happy Settlement of theſe Three Diſtracted Nations, then any other New GOVERNMENT whatſoever.</head>
+            <p>PErſons in Power muſt remember that they are ſubject to like paſſions and imperfections with others, and that they are under very ſtrong temptations to <hi>Pride,</hi> againſt which, they have need to keep a conſtant and ſevere watch; the rather becauſe God hath by our late ſtrange and frequent changes ſhewn unto Us the inſtability of all Earthly Power, in caſe they diſpleaſe God and diſcontent the People. This being premiſed, I take the boldneſs in all humility to ſuggeſt;</p>
+            <p n="1">1. That the great Intereſt and Wiſdom in <hi>Governours,</hi> lyes not in a violent reſtraining of Peoples Hands, but in a ſweet prevailing upon their Hearts.</p>
+            <p n="2">2. That a Free State <hi>(of all Governments)</hi> can worſt be ſet<g ref="char:EOLhyphen"/>led without the ingaging of the generality of the People, and there<g ref="char:EOLhyphen"/>fore the Rulers of it ought to make it their great deſign (as Chriſt did in his Church) to make them a willing People in the day of their Power.</p>
+            <p n="3">3. That it is not to be expected that the affections of People ſhould be regained and recovered from thoſe Diſcontents, Animo<g ref="char:EOLhyphen"/>ſities, and Prejudices (wherewith they are filled) in a moment; but it is a work of time, and to be done leiſurely, and a work that may be ſpoiled by Precipitation: As he that ſhall ſcrue up a ſtring in an Inſtrument to the higheſt at firſt, ſhall break it in pie<g ref="char:EOLhyphen"/>ces, while another that brings it up by degrees, may ſafely raiſe it to an higher ſtrain. Magiſtrates being Parents, muſt bear with their Childrens weakneſs, and pardon their frowardneſs, and not immediate reject all that do not at the firſt word comply with all their deſires: Nor muſt they <hi>Jehu</hi>-like, drive on furiouſly; but rather with <hi>Jacob,</hi> conſider the tenderneſs of the Children and Flocks, and lead them with gentle and eaſie marches, leaſt if they be over-driven they dye.</p>
+            <p n="4">4. That the affections of People are not to be gained by ſome fair Expreſſions and Verbal Declarations, (in which the generali<g ref="char:EOLhyphen"/>ty of men have learned to put very little confidence) but by viſi<g ref="char:EOLhyphen"/>ble Demonſtrations and effectual actions.</p>
+            <p n="5">5. That it is impoſſible to ſettle the Nation, as a <hi>Free State,</hi> but upon the Baſis of the Sober Party, the others being ſo inconſider<g ref="char:EOLhyphen"/>able in their numbers and intereſt, ſo odious to the body of the Nation, ſo inconſiſtent with themſelves, with their own princi<g ref="char:EOLhyphen"/>ples, their own promiſes, and many times their own former acti<g ref="char:EOLhyphen"/>ons, and ſo much reſolved to ſubject all Civil Affairs and Intereſts to their own private Conceptions in Religion.</p>
+            <p n="6">6. That it is in vain and unreaſonable to imagine that a <hi>State</hi> can bottom it ſelf upon both Parties, there being ſuch a manifeſt im<g ref="char:EOLhyphen"/>poſsibility of ſerving Two Maſters; eſpecially ſuch who are, and are like to be at ſo wide and irreconcileable a diſtance in their prin<g ref="char:EOLhyphen"/>ciples, Spirits, Deſignes, and Endeavours, that the one will be continually provoking, ſubverting, and counter working the o<g ref="char:EOLhyphen"/>ther, and thereby tear out the Bowels of their Common Mother, and weaken the <hi>Nation,</hi> and make way for any Forreign Adverſa<g ref="char:EOLhyphen"/>ry: And that they will no more cement, then the <hi>Ark</hi> and <hi>Dagon</hi> could ſtand together, or than the Iron and Clay in <hi>Daniels</hi> Image could Concorparate: And that State which ſeeks by ſuch a Syn<g ref="char:EOLhyphen"/>cretiſm to gain both, will indeed diſoblige both Parties, and ren<g ref="char:EOLhyphen"/>der their Government ungratefull to all.</p>
+            <p n="7">7. That together with Scripture and Reaſon, the experience of theſe times makes it manifeſt, that no ſettlement is like to be had in the State, unleſs there be ſome order and eſtabliſhment in the Church; the diſtempers in the one, ſo eaſily and Univerſally paſ<g ref="char:EOLhyphen"/>ſing into the other.</p>
+            <p n="8">8. That our preſent Rulers cannot more promote their own in<g ref="char:EOLhyphen"/>tereſt, then by diſcovering their own intentions in ſome Signal and Real way in the behalf of the Miniſtry, Learning, and Univerſi<g ref="char:EOLhyphen"/>ties, and diſcountenancing that turbulent Generation of <hi>Quakers, Fifth-Monarchy-men,</hi> and <hi>Rigid Anabaptiſts,</hi> that the whole Nati<g ref="char:EOLhyphen"/>on may ſee that their <hi>Rulers</hi> do make a difference between ſuch mo<g ref="char:EOLhyphen"/>deſt, humble, and quiet Souls, as through Tenderneſs of Conſci<g ref="char:EOLhyphen"/>ence and humane frailty, are overtaken with ſome Errours of leſ<g ref="char:EOLhyphen"/>ſer importance, and ſuch as overthrow the Faith, and ſubvert the Foundations of <hi>Religion,</hi> and <hi>make no bones of trampling upon our Laws, Liberties, Civil Authorities, and Principles of righteouſneſs,</hi> when they ſtand in the way of their particular opinions.</p>
+            <p n="9">9. That they would be tender in the preſsing of Oaths, <hi>which have been ſo frequently urged,</hi> and ſo fearfully violated, that many are afraid even of Lawfull Oaths; and in particular, that <hi>the Oath of Abjuration</hi> may not be preſſed; which,</p>
+            <p n="1">1. Is unneceſſary and inſufficient: For, ſuppoſe it not to be ſufficient, that is already done, to <hi>make it</hi> Treaſon for any man to move for the <hi>bringing in of the</hi> OLD LINE; and ſuppoſe that the Magiſtrate ſhall <hi>think fit</hi> to impoſe an Ingagement upon <hi>Members of Parliament:</hi> Is not this enough without an <hi>Oath of Ab<g ref="char:EOLhyphen"/>juration!</hi> For if men <hi>make Conſcience,</hi> a bare Ingagement will be ſufficient; and if they <hi>make no Conſcience,</hi> Ten thouſand <hi>Abjurations</hi> will have no hold of them: And if the one being owned before a mans enterance into the <hi>Houſe</hi> doth not tye him when he is entred, neither will the other; let men be as cautious as they can, when all is done as it is their Duty as they ought; ſo it is neceſſary they muſt truſt the Providence of God with future things.</p>
+            <p n="2">2. It is (at the leaſt ſeemingly) unlawfull, as it is an appea<g ref="char:EOLhyphen"/>rance of the higheſt evil, <hi>viz.</hi> viſible breach of all Covenants, <hi>&amp;c. (And</hi> We <hi>know even Lawfull things are to be avoided</hi> when they have <hi>but an appearance of evil</hi>) as it is a real and great ſcandal, not onely to ſuch as are engaged to the OLD ROYAL FAMI<g ref="char:EOLhyphen"/>LY, but to Thouſands of others (and they Perſons <hi>ſober</hi> and <hi>judicious</hi>) And beſides, it is a confining of Gods Providence; <hi>For</hi> who <hi>can ſay that the affairs of the World, and of the Nation, may not be reduced to ſuch a poſture, that it may be not onely</hi> lawfull, <hi>but al<g ref="char:EOLhyphen"/>ſo</hi> neceſſary <hi>to take in a</hi> Branch <hi>of that</hi> Family <hi>upon terms, and that, that may be the onely viſible means to prevent the total ruine of theſe Three Nations? Suppoſe one of that</hi> Line <hi>hereafter ſhall be, and by ſufficient and ſatisfying evidences appear to all People to be a</hi> Perſon <hi>truly</hi> Gracious, <hi>and heartily ready to</hi> forgive all His enemies, <hi>and to give</hi> whatever <hi>further ſecurity can be deſired or had unto the Godly Party of the Nation, as alſo to thoſe that have purchaſed His Lands, that they ſhall enjoy them: Suppoſe alſo, that in caſe of a refuſal, all</hi> Neighbouring Princes <hi>and</hi> States <hi>reſolve to contribute their utmoſt and united</hi> ſtrength towards <hi>His reſtitution</hi> (which no wiſe man will ſay is impoſsible) <hi>Suppoſe alſo that our Ships, the Walls of the Na<g ref="char:EOLhyphen"/>tion, are vanquiſhed and broken, which (unleſs We will with the vain</hi> Spaniards <hi>fancy them to be an invincible N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vie) muſt needs be allowed for a poſsibilitie; and ſuppoſe the hearts of the whole Nation; and the beſt men moſt freely and fully towards him:</hi> And laſtly, That the then preſent (but now future) Magiſtrates by their ungodly and unrighteous, and ſelfiſh carriages, ſhould render themſelves odi<g ref="char:EOLhyphen"/>ous to the whole Nation. I ſay in this caſe, I ſuppoſe there would be no Pious and Publick ſpirited Perſon but would judge it his Duty to uſe all Lawfull endeavours, if not for the reſtauration of the whole <hi>Line,</hi> yet at leaſt for the reſtitution of ſuch a Perſon, for which there could be no way but by the violation of that Oath which he had raſhly and ſinfully ingaged himſelf in, thereby de<g ref="char:EOLhyphen"/>frauding himſelf of that Liberty which God and Nature had given him, and preventing himſelf in that Duty, which the ſaving of his Country from total and certain ruine may indeſpenſably require of him.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is againſt <hi>Rulers of Prudence,</hi> and looks too like a ſecret Deſign of ſome extravagants in Religion, however others may be inga<g ref="char:EOLhyphen"/>ged <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereby to provoke and irritate, and diſoblige the <hi>ſober Party in the Nation</hi> [the moſt of whom may be gained by de<g ref="char:EOLhyphen"/>grees, by the Juſt and Pious Laudable actions of their Magiſtrates] and craftily to oblige the State to lean upon that <hi>broken reed</hi> which hath ſo oft pierced into their hands; And it ſeems to be as the o<g ref="char:EOLhyphen"/>pening of the Wound again, when there is ſome tendencie towards a cloſure, or <hi>like</hi> the remanding of <hi>Iſrael</hi> into the <hi>Wilderneſs,</hi> when they were coming towards ſome <hi>Settlement in the Land deſigned for them:</hi> And therefore it is humbly deſired, that in ſo nice a Juncture of Affairs, and <hi>ſo tickliſh a time as this is,</hi> there may be a forbearing of Corroding Medicaments, and People may be won by Lenitives.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> John Johnſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
